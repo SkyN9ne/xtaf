@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # ./isXb360Hd /dev/sda && echo OK || echo KO
 # KO
